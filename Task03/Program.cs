@@ -26,7 +26,7 @@ else if (a == 4)
 }
 else if (a == 5)
 {
-    Console.WriteLine("Это ятница");
+    Console.WriteLine("Это пятница");
 }
 else if (a == 6)
 {
